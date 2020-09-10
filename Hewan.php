@@ -1,7 +1,5 @@
 <?php
 
-include 'Hewan.php';
-
 class Kucing {
 	public $jumlah_kaki, $bisa_terbang, $bersuara;
 
