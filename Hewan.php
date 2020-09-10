@@ -1,6 +1,6 @@
 <?php
 
-include 'Animal.php';
+include 'Hewan.php';
 
 $moci = new Kucing;
 $moci->jumlah_kaki = 4;
